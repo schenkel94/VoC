@@ -7,7 +7,7 @@
 
 Este repositório contém uma solução completa de **Engenharia de Dados e NLP** para classificar e analisar feedbacks de clientes (Voice of Customer). O projeto transforma dados brutos em insights estratégicos através de um pipeline que automatiza a identificação de sentimentos e categorias críticas de negócio.
 
-## 📈 Dashboard Interativo
+## Dashboard Interativo
 Clique na imagem abaixo para abrir a [versão interativa no Power BI](https://app.powerbi.com/view?r=eyJrIjoiYTU4MDhlOTAtOWZkOC00ZjQwLThiZjUtMWNiZGEwOTcyYTM2IiwidCI6ImE2Yjc2OWVmLTlmN2MtNDcxZS04Y2Q2LWNjYTBiNzE4YmJmZSJ9) e explorar os indicadores:
 
 [![Dashboard VOC](https://raw.githubusercontent.com/schenkel94/VoC/main/VOC.png)](https://app.powerbi.com/view?r=eyJrIjoiYTU4MDhlOTAtOWZkOC00ZjQwLThiZjUtMWNiZGEwOTcyYTM2IiwidCI6ImE2Yjc2OWVmLTlmN2MtNDcxZS04Y2Q2LWNjYTBiNzE4YmJmZSJ9)
@@ -15,7 +15,7 @@ Clique na imagem abaixo para abrir a [versão interativa no Power BI](https://ap
 
 ---
 
-## 🧠 Inteligência do Projeto (Python Pipeline)
+## Inteligência do Projeto (Python Pipeline)
 
 O processamento principal é realizado no arquivo [`notebook_voc.ipynb`](https://github.com/schenkel94/VoC/blob/main/notebook_voc.ipynb), que executa as seguintes etapas técnicas:
 
@@ -32,7 +32,7 @@ Implementamos um motor de regras determinístico para agrupar feedbacks em categ
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 * **Linguagem**: Python (Pandas, Numpy)
 * **Machine Learning**: Transformers (Hugging Face), PyTorch
@@ -41,7 +41,7 @@ Implementamos um motor de regras determinístico para agrupar feedbacks em categ
 
 ---
 
-## 📂 Estrutura de Arquivos
+## Estrutura de Arquivos
 
 * [`notebook_voc.ipynb`](https://github.com/schenkel94/VoC/blob/main/notebook_voc.ipynb): Core do projeto; realiza a limpeza, classificação e exportação dos dados.
 * `voc_gold_2025.csv`: Base de dados de entrada com os feedbacks brutos.
@@ -50,7 +50,7 @@ Implementamos um motor de regras determinístico para agrupar feedbacks em categ
 
 ---
 
-## 🚀 Como Executar
+## Como Executar
 
 1. **Instalar Dependências**:
    ```bash
@@ -60,7 +60,7 @@ Implementamos um motor de regras determinístico para agrupar feedbacks em categ
 
 ---
 
-## 👤 Autor
+## Autor
 **Mário Schenkel** – Business Data Analyst
 * [Meu Portfólio](https://schenkel94.github.io/portfolio/)
 * [LinkedIn](https://www.linkedin.com/in/marioschenkel/)
