@@ -8,7 +8,7 @@
 Este repositório contém uma solução completa de **Engenharia de Dados e NLP** para classificar e analisar feedbacks de clientes (Voice of Customer). O projeto transforma dados brutos em insights estratégicos através de um pipeline que automatiza a identificação de sentimentos e categorias críticas de negócio.
 
 ## 📈 Dashboard Interativo
-Clique na imagem abaixo para abrir a versão interativa no Power BI e explorar os indicadores:
+Clique na imagem abaixo para abrir a [versão interativa no Power BI](https://app.powerbi.com/view?r=eyJrIjoiYTU4MDhlOTAtOWZkOC00ZjQwLThiZjUtMWNiZGEwOTcyYTM2IiwidCI6ImE2Yjc2OWVmLTlmN2MtNDcxZS04Y2Q2LWNjYTBiNzE4YmJmZSJ9) e explorar os indicadores:
 
 [![Dashboard VOC](https://raw.githubusercontent.com/schenkel94/VoC/main/VOC.png)](https://app.powerbi.com/view?r=eyJrIjoiYTU4MDhlOTAtOWZkOC00ZjQwLThiZjUtMWNiZGEwOTcyYTM2IiwidCI6ImE2Yjc2OWVmLTlmN2MtNDcxZS04Y2Q2LWNjYTBiNzE4YmJmZSJ9)
 *Preview do dashboard desenvolvido para monitoramento de KPIs de satisfação.*
